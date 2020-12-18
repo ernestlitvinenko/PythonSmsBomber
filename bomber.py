@@ -148,7 +148,6 @@ class Attack:
             return None
 
 if __name__ == '__main__':
-    phone = '79147304324'
     parser = argparse.ArgumentParser()
     parser.add_argument('phone', action='store')
     parser.add_argument('-t', '--type', action='store', dest='type', default='SMS')
