@@ -16,4 +16,4 @@
 
 `pip3 install -r requirements.txt`
 
-`python3 bomber.py [Номер телефона для атаки]`
+`python3 bomber.py **[Номер телефона для атаки]**`
